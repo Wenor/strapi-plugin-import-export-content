@@ -17,6 +17,10 @@
     "prismjs": "^1.23.0",
     "react-simple-code-editor": "^0.11.0"
   },
+  "peerDependencies": {
+    "strapi-utils": "^3.6.8",
+    "request": "^2.87.0"
+  },
   "author": "Edison Peñuela <edisonpe961206@hotmail.com>",
   "maintainers": [
     "Edison Peñuela <edisonpe961206@hotmail.com>"
