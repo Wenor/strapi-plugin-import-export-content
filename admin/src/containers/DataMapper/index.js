@@ -110,7 +110,7 @@ function DataMapper({ analysis, target, onImport }) {
           fields: mappedFields,
           items: importItems,
           asDraft: uploadAsDraft,
-          allowUpdateDelete: allowUpdate,
+          allowUpdate: allowUpdate,
         },
       });
 
